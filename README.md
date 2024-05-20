@@ -18,7 +18,7 @@ You can access Official Documentation of Google Code Scanner API on this link. C
 Clone Git Repo
 
 ```bash
-git Clone https://github.com/Harsh5661/Google-Play-Services-Code-Scanner-APP.git
+git Clone https://github.com/adhu-601/Google-Play-Services-Code-Scanner-APP.git
 
 ```
 ```bash
