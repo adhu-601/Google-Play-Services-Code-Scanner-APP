@@ -50,3 +50,5 @@ Please read Google's MLKit Library License Usage and Policies.
 
 Please adhere to this project's `code of conduct`.
 
+This Application was developed along with collaboration with @Harsh5661
+
